@@ -44,17 +44,24 @@ body{
     align-items: center;
     gap: 32px;
 }
+
+.presentacion__enlaces_subtitulos{
+    font-family: "Krona One", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
 .presentacion__enlaces__link{
-    width: 280px;
-    background-color: #22d4fd;
+    width: 378px;
     text-align: center;
     padding: 21.5px 0;
-    border-radius: 16px;
+    border-radius: 8px;
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
     font-weight: 700;
     text-decoration: none;
-    color: #000000;
+    color: #f6f6f6;
+    border: 2px solid #22d4fd;
 }
 
 img{
