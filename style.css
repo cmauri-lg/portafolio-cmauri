@@ -65,6 +65,11 @@ body{
     display: flex;
     justify-content: center;
     gap: 10px;
+
+}
+
+.presentacion__enlaces__link:hover{
+    background-color: #272727;
 }
 
 .img_personal{
